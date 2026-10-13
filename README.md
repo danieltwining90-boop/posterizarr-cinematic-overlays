@@ -25,7 +25,7 @@ Check your Posterizarr configuration and documentation for the correct paths and
 
 ## Plex Dashboard Preview
 
-![Plex Dashboard Preview](previews/Plex%20Dashboard%20Preview.png)
+![Plex Dashboard Preview](./previews/Plex%20Dashboard%20Preview.png)
 
 ## Overlay Previews
 
