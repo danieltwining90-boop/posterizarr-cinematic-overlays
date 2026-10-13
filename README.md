@@ -33,4 +33,5 @@ Check your Posterizarr configuration and documentation for the correct paths and
 
 ## Credits
 
-Created by [@danieltwining90-boop](https://github.com/danieltwining90-boop).
+Original overlay concepts and base assets adapted from [jmxd](https://github.com/jmxd/Kometa).
+
