@@ -23,28 +23,13 @@ A collection of custom cinematic overlays for Posterizarr, designed to give your
 
 Check your Posterizarr configuration and documentation for the correct paths and overlay settings.
 
-## Overlay previews
+## Overlay Previews
 
-### Your Plex library
+## Plex Dashboard Preview
 
 ![Plex Dashboard Preview](Plex%20Dashboard%20Preview.png)
 
-### 4K Dolby Vision
-
-![4K Dolby Vision Preview](4K%20DV%20Preview.jpg)
-
-### 4K HDR10+
-
-![4K HDR10+ Preview](4K%20HDR%20Preview.jpg)
-
-### 4K SDR
-
-![4K SDR Preview](4K%20SDR%20Preview.jpg)
-
-### IMAX + Dolby Vision
-
-![IMAX 4K Dolby Vision Preview](IMAX%204K%20DV%20Preview.jpg)
-
+![Cinematic Overlay Previews](Overlays%20Preview.jpg)
 
 ## Credits
 
