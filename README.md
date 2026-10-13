@@ -18,6 +18,9 @@ A collection of custom cinematic overlays for Posterizarr, designed to give your
 3. Copy the selected overlays into your Posterizarr overlay directory.
 4. Configure Posterizarr to use the corresponding overlay filenames.
 
+## Note
+- IMAX overlay will need to be added manually to any poster you wish in order to show in Library.
+
 Check your Posterizarr configuration and documentation for the correct paths and overlay settings.
 
 ## Credits
