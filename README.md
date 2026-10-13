@@ -23,11 +23,11 @@ A collection of custom cinematic overlays for Posterizarr, designed to give your
 
 Check your Posterizarr configuration and documentation for the correct paths and overlay settings.
 
-## Overlay Previews
-
 ## Plex Dashboard Preview
 
 ![Plex Dashboard Preview](Plex%20Dashboard%20Preview.png)
+
+## Overlay Previews
 
 ![Cinematic Overlay Previews](Overlays%20Preview.jpg)
 
