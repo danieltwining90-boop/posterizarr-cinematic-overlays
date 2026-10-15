@@ -33,5 +33,7 @@ Check your Posterizarr configuration and documentation for the correct paths and
 
 ## Credits
 
+**[Posterizarr](https://github.com/fscorrupt/Posterizarr)** by [@fscorrupt](https://github.com/fscorrupt) — this overlay collection is designed for use with Posterizarr, the tool for customising artwork in Plex, Jellyfin and Emby media libraries.
+
 Original overlay concepts and base assets adapted from [jmxd](https://github.com/jmxd/Kometa).
 
